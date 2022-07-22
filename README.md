@@ -39,3 +39,10 @@
   <img align="center" alt="rider" height="30" width="30" src="https://www.sublimehq.com/images/sublime_text.png">
   
 </div>
+
+#
+
+<div>
+  <a href="https://www.linkedin.com/in/mukhammad-kasimov-906105205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:muhammadmamushah.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
